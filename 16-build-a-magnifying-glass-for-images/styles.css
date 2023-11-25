@@ -1,0 +1,46 @@
+.magnifier {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+.magnifier__image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.magnifier__glass {
+    border: 0.25rem solid rgb(203 213 225 / 0.5);
+    border-radius: 50%;
+
+    position: absolute;
+    top: -4rem;
+    left: -4rem;
+    transform: translate(0, 0);
+
+    width: 8rem;
+    height: 8rem;
+
+    cursor: move;
+    user-select: none;
+    touch-action: none;
+}
+.magnifier__glass::after,
+.magnifier__glass::before {
+    background: rgb(203 213 225 / 0.5);
+
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.magnifier__glass::after {
+    height: 0.125rem;
+    width: 2rem;
+}
+.magnifier__glass::before {
+    height: 2rem;
+    width: 0.125rem;
+}

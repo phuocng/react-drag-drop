@@ -110,5 +110,14 @@ Explore how to create a color picker with React.
 
 ## 15: Craft an image cropper
 
+Learn how to create an image cropper using React.
+
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/craft-an-image-cropper/)
 -   [Source](/15-craft-an-image-cropper)
+
+## 16: Build a magnifying glass for images
+
+Show you how to create an image magnifier with React.
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/build-a-magnifying-glass-for-images/)
+-   [Source](/16-build-a-magnifying-glass-for-images)
