@@ -107,3 +107,8 @@ Explore how to create a color picker with React.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/build-a-color-picker/)
 -   [Source](/14-build-a-color-picker)
+
+## 15: Craft an image cropper
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/craft-an-image-cropper/)
+-   [Source](/15-craft-an-image-cropper)
