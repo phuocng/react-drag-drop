@@ -1,0 +1,62 @@
+.picker {
+    border: 1px solid rgb(203 213 225);
+    border-radius: 50%;
+    position: relative;
+    height: 12rem;
+    width: 12rem;
+}
+
+.picker__circle {
+    position: absolute;
+    top: 0.75rem;
+    left: 0.75rem;
+    right: 0.75rem;
+    bottom: 0.75rem;
+
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.picker__handler {
+    border-radius: 50%;
+    height: 1.5rem;
+    width: 1.5rem;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    cursor: move;
+    user-select: none;
+    touch-action: none;
+}
+.picker__handler--hours {
+    background: rgb(203 213 225);
+}
+.picker__handler--minutes {
+    background: rgb(71 85 105);
+}
+
+.picker__selected {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    gap: 0.25rem;
+
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+.picker__output {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: inherit;
+    font-weight: inherit;
+}
+.picker__output--hours {
+    color: rgb(203 213 225);
+}
+.picker__output--minutes {
+    color: rgb(71 85 105);
+}
