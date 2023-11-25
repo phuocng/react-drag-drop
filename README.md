@@ -44,3 +44,10 @@ Learn how to use a range slider to build our own RGB to HEX color converter.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/create-an-rgb-to-hex-color-converter/)
 -   [Source](/05-create-an-rgb-to-hex-color-converter)
+
+## 06: Create resizable split views
+
+Learn how to create resizable split views with React.
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/create-resizable-split-views/)
+-   [Source](/06-create-resizable-split-views)
