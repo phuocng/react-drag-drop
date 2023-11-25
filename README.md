@@ -79,3 +79,10 @@ Learn how to create a custom scrollbar with React.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/build-a-custom-scrollbar/)
 -   [Source](/10-build-a-custom-scrollbar)
+
+## 11: Make a given element resizable
+
+Learn how to make an element resizable using React.
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/make-a-given-element-resizable/)
+-   [Source](/11-make-a-given-element-resizable)
