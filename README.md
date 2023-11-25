@@ -121,3 +121,10 @@ Show you how to create an image magnifier with React.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/build-a-magnifying-glass-for-images/)
 -   [Source](/16-build-a-magnifying-glass-for-images)
+
+## 17: Select a portion of an element by clicking and dragging
+
+Explore how to implement click and drag selection with React.
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/select-a-portion-of-an-element-by-clicking-and-dragging/)
+-   [Source](/17-select-a-portion-of-an-element-by-clicking-and-dragging)

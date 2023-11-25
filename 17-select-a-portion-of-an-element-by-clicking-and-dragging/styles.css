@@ -1,0 +1,17 @@
+.container {
+    border: 1px solid rgb(203 213 225);
+    position: relative;
+    width: 100%;
+    height: 24rem;
+
+    cursor: crosshair;
+    touch-action: none;
+}
+
+.selection {
+    border: 2px dashed rgb(203 213 225);
+
+    position: absolute;
+    top: 0;
+    left: 0;
+}
