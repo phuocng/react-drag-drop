@@ -37,3 +37,10 @@ Learn how to develop a range slider component in React.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/create-a-range-slider/)
 -   [Source](/04-create-a-range-slider)
+
+## 05: Create an RGB to HEX color converter
+
+Learn how to use a range slider to build our own RGB to HEX color converter.
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/create-an-rgb-to-hex-color-converter/)
+-   [Source](/05-create-an-rgb-to-hex-color-converter)
