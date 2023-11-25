@@ -163,3 +163,10 @@ Explore how to create a radial progress bar with React.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/create-a-radial-progress-bar/)
 -   [Source](/22-create-a-radial-progress-bar)
+
+## 23: Create a time picker
+
+Explore how to create a time picker with React.
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/create-a-time-picker/)
+-   [Source](/23-create-a-time-picker)
