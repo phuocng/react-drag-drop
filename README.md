@@ -100,3 +100,10 @@ Learn how to keep a draggable element within its parent container with React.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/constrain-a-draggable-element-within-its-container/)
 -   [Source](/13-constrain-a-draggable-element-within-its-container)
+
+## 14: Build a color picker
+
+Explore how to create a color picker with React.
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/build-a-color-picker/)
+-   [Source](/14-build-a-color-picker)
