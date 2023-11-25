@@ -128,3 +128,10 @@ Explore how to implement click and drag selection with React.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/select-a-portion-of-an-element-by-clicking-and-dragging/)
 -   [Source](/17-select-a-portion-of-an-element-by-clicking-and-dragging)
+
+## 18: Crop a portion of an image
+
+Explore how to crop a portion of an image using React.
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/crop-a-portion-of-an-image/)
+-   [Source](/18-crop-a-portion-of-an-image)
