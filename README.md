@@ -65,3 +65,10 @@ Learn how to create an image comparison slider with React.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/create-an-image-comparison-slider/)
 -   [Source](/08-create-an-image-comparison-slider)
+
+## 09: Scroll by dragging
+
+Explore how to implement drag-to-scroll functionality with React.
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/scroll-by-dragging/)
+-   [Source](/09-scroll-by-dragging)
