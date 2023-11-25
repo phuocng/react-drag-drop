@@ -1,0 +1,40 @@
+.cropper {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+.cropper__image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.cropper__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+
+    background: #000;
+    opacity: 0.5;
+}
+.cropper__preview {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.cropper__cropping {
+    outline: 1px dashed #fff;
+    height: 8rem;
+    width: 8rem;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    cursor: move;
+    user-select: none;
+    touch-action: none;
+}
