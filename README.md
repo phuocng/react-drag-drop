@@ -184,3 +184,10 @@ Explore how to use React to create a discrete linear gauge.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/create-a-linear-gauge-with-discrete-values/)
 -   [Source](/25-create-a-linear-gauge-with-discrete-values)
+
+## 26: Use vertical and horizontal lines as guides for element positioning
+
+Learn how to use the vertical and horizontal lines shown at the center as a guide when dragging an element around its container.
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/use-vertical-and-horizontal-lines-as-guides-for-element-positioning/)
+-   [Source](/26-use-vertical-and-horizontal-lines-as-guides-for-element-positioning)
