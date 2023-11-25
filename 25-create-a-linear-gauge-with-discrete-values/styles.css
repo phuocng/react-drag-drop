@@ -1,0 +1,53 @@
+.gauge {
+    position: relative;
+    height: 16rem;
+    width: 0.5rem;
+    background: rgb(203 213 225);
+}
+.gauge__progress {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgb(99 102 241);
+}
+.gauge__tick {
+    position: absolute;
+    left: 100%;
+    width: 0.5rem;
+    height: 1px;
+    background: rgb(203 213 225);
+}
+.gauge__tick--minor {
+    width: 0.25rem;
+}
+.gauge__label {
+    position: absolute;
+    left: 50%;
+    transform: translate(0.5rem, -50%);
+}
+.gauge__marker {
+    position: absolute;
+    top: -0.5rem;
+    left: 0;
+    width: 0.5rem;
+    height: 1rem;
+
+    cursor: move;
+    user-select: none;
+    touch-action: none;
+}
+.gauge__marker::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translateX(-100%);
+
+    border-style: solid;
+    height: 0;
+    width: 0;
+
+    border-color: transparent transparent transparent rgb(99 102 241);
+    border-width: 0.5rem 0 0.5rem 0.5rem;
+}
