@@ -1,0 +1,24 @@
+.container {
+    border: 1px solid rgb(203 213 225);
+    border-radius: 50%;
+
+    position: relative;
+    height: 12rem;
+    width: 12rem;
+}
+
+.draggable {
+    background: rgb(100 116 139);
+    border-radius: 50%;
+    height: 1rem;
+    width: 1rem;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    /* Indicate that the element is draggable */
+    cursor: move;
+    user-select: none;
+    touch-action: none;
+}
