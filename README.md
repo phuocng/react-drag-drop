@@ -142,3 +142,10 @@ Learn how to add annotations to an image using React.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/add-annotations-to-an-image/)
 -   [Source](/19-add-annotations-to-an-image)
+
+## 20: Take a screenshot of a portion of an element
+
+Learn how to take a screenshot of a portion of an element with React.
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/take-a-screenshot-of-a-portion-of-an-element/)
+-   [Source](/20-take-a-screenshot-of-a-portion-of-an-element)
