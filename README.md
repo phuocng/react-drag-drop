@@ -19,14 +19,21 @@ Learn how to create a draggable element in React.
 
 ## 02: Make an element draggable on touchscreen devices
 
-Learn how to support drag and drop on touchscreen devicess
+Learn how to support drag and drop on touchscreen devices.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/make-an-element-draggable-on-touchscreen-devices/)
 -   [Source](/02-make-an-element-draggable-on-touchscreen-devices)
 
 ## 03: Create a custom draggable hook
 
-Learn how to create your very own React hook to add this draggable functionality, making it easy to reuse in different places
+Learn how to create your very own React hook to add this draggable functionality, making it easy to reuse in different places.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/create-a-custom-draggable-hook/)
 -   [Source](/03-create-a-custom-draggable-hook)
+
+## 04: Create a range slider
+
+Learn how to develop a range slider component in React.
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/create-a-range-slider/)
+-   [Source](/04-create-a-range-slider)
