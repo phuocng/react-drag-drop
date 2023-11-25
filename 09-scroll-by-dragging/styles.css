@@ -1,0 +1,24 @@
+.container {
+    border: 1px solid rgb(203 213 225);
+    height: 24rem;
+    overflow: auto;
+    padding: 1rem;
+
+    cursor: grab;
+    touch-action: none;
+}
+.item {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+    background-color: rgb(203 213 225);
+    border-radius: 0.25rem;
+    font-size: 2rem;
+    height: 8rem;
+    margin-bottom: 1rem;
+    width: 100%;
+}
+.item:last-child {
+    margin-bottom: 0;
+}
