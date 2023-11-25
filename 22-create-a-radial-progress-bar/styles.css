@@ -1,0 +1,56 @@
+.radial-progress-bar {
+    background: rgb(203 213 225);
+    border-radius: 50%;
+    overflow: hidden;
+    position: relative;
+    height: 12rem;
+    width: 12rem;
+}
+
+.radial-progress-bar__half {
+    position: absolute;
+    top: 0;
+    height: 50%;
+    width: 100%;
+    transform-origin: 50% 100%;
+}
+.radial-progress-bar__half--1 {
+    background: rgb(99 102 241);
+}
+
+.radial-progress-bar__overlay {
+    border-radius: 50%;
+    background: #fff;
+
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    right: 1rem;
+    bottom: 1rem;
+}
+.radial-progress-bar__circle {
+    position: absolute;
+    top: 0.5rem;
+    left: 0.5rem;
+    right: 0.5rem;
+    bottom: 0.5rem;
+
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.draggable {
+    background: rgb(30 27 75);
+    border-radius: 50%;
+    height: 1rem;
+    width: 1rem;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    /* Indicate that the element is draggable */
+    cursor: move;
+    user-select: none;
+    touch-action: none;
+}
