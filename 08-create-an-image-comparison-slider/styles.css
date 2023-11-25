@@ -1,0 +1,36 @@
+.comparison {
+    position: relative;
+    user-select: none;
+}
+.comparison__image {
+    max-height: 100%;
+    height: auto;
+    width: 100%;
+    box-sizing: border-box;
+    object-fit: cover;
+    object-position: center center;
+}
+.comparison__first {
+    left: 0;
+    position: absolute;
+    top: 0;
+
+    height: 100%;
+    width: 100%;
+
+    clip-path: inset(0 0 0 50%);
+}
+.comparison__resizer {
+    background: rgb(203 213 225);
+    cursor: ew-resize;
+    user-select: none;
+    touch-action: none;
+
+    left: 50%;
+    position: absolute;
+    top: 0;
+    transform: translate(-100%, 0);
+
+    width: 2px;
+    height: 100%;
+}

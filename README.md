@@ -58,3 +58,10 @@ Learn how to create a Drawer component using React.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/create-a-drawer/)
 -   [Source](/07-create-a-drawer)
+
+## 08: Create an image comparison slider
+
+Learn how to create an image comparison slider with React.
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/create-an-image-comparison-slider/)
+-   [Source](/08-create-an-image-comparison-slider)
