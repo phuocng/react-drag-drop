@@ -177,3 +177,10 @@ Learn how to create snap-to grid functionality with React.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/snap-a-draggable-element-to-a-grid/)
 -   [Source](/24-snap-a-draggable-element-to-a-grid)
+
+## 25: Create a linear gauge with discrete values
+
+Explore how to use React to create a discrete linear gauge.
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/create-a-linear-gauge-with-discrete-values/)
+-   [Source](/25-create-a-linear-gauge-with-discrete-values)
