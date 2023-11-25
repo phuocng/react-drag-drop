@@ -12,14 +12,21 @@ Get ready to elevate your React app with drag and drop functionality. Your users
 
 ## 01: Make a given element draggable
 
-How to create a draggable element in React.
+Learn how to create a draggable element in React.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/make-a-given-element-draggable/)
 -   [Source](/01-make-a-given-element-draggable)
 
 ## 02: Make an element draggable on touchscreen devices
 
-How to support drag and drop on touchscreen devicess
+Learn how to support drag and drop on touchscreen devicess
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/make-an-element-draggable-on-touchscreen-devices/)
 -   [Source](/02-make-an-element-draggable-on-touchscreen-devices)
+
+## 03: Create a custom draggable hook
+
+Learn how to create your very own React hook to add this draggable functionality, making it easy to reuse in different places
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/create-a-custom-draggable-hook/)
+-   [Source](/03-create-a-custom-draggable-hook)
