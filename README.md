@@ -86,3 +86,10 @@ Learn how to make an element resizable using React.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/make-a-given-element-resizable/)
 -   [Source](/11-make-a-given-element-resizable)
+
+## 12: Resize columns in a table
+
+Learn how to resize columns by dragging the border using React.
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/resize-columns-in-a-table/)
+-   [Source](/12-resize-columns-in-a-table)

@@ -1,0 +1,18 @@
+.column {
+    position: relative;
+}
+
+.resizer {
+    background: transparent;
+    cursor: col-resize;
+
+    position: absolute;
+    top: 0;
+    right: 0;
+
+    height: 100%;
+    width: 0.25rem;
+}
+.resizer:hover {
+    background: rgb(99 102 241);
+}
