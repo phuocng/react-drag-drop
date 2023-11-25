@@ -1,0 +1,32 @@
+.splitter {
+    border: 1px solid rgb(203 213 225);
+    align-items: center;
+    display: flex;
+
+    height: 24rem;
+    width: 100%;
+}
+.splitter__first {
+    width: 50%;
+    height: 100%;
+
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.splitter__resizer {
+    background: rgb(203 213 225);
+    height: 100%;
+    width: 2px;
+
+    cursor: ew-resize;
+    user-select: none;
+    touch-action: none;
+}
+.splitter__second {
+    flex: 1;
+
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
