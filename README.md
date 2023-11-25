@@ -135,3 +135,10 @@ Explore how to crop a portion of an image using React.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/crop-a-portion-of-an-image/)
 -   [Source](/18-crop-a-portion-of-an-image)
+
+## 19: Add annotations to an image
+
+Learn how to add annotations to an image using React.
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/add-annotations-to-an-image/)
+-   [Source](/19-add-annotations-to-an-image)
