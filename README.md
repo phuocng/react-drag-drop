@@ -93,3 +93,10 @@ Learn how to resize columns by dragging the border using React.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/resize-columns-in-a-table/)
 -   [Source](/12-resize-columns-in-a-table)
+
+## 13: Constrain a draggable element within its container
+
+Learn how to keep a draggable element within its parent container with React.
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/constrain-a-draggable-element-within-its-container/)
+-   [Source](/13-constrain-a-draggable-element-within-its-container)
