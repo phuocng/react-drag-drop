@@ -1,0 +1,41 @@
+.modal {
+    left: 0;
+    position: fixed;
+    top: 0;
+
+    height: 100%;
+    width: 100%;
+
+    background: rgba(51 65 85 / 0.7);
+    z-index: 999;
+}
+.drawer {
+    align-items: center;
+    display: flex;
+
+    height: 100%;
+    width: 100%;
+}
+.drawer__first {
+    background: #fff;
+    width: 50%;
+    height: 100%;
+
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.drawer__resizer {
+    background: rgb(203 213 225);
+    height: 100%;
+    width: 2px;
+
+    cursor: ew-resize;
+    user-select: none;
+    touch-action: none;
+}
+.drawer__second {
+    background: transparent;
+    flex: 1;
+    height: 100%;
+}

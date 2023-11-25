@@ -51,3 +51,10 @@ Learn how to create resizable split views with React.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/create-resizable-split-views/)
 -   [Source](/06-create-resizable-split-views)
+
+## 07: Create a drawer
+
+Learn how to create a Drawer component using React.
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/create-a-drawer/)
+-   [Source](/07-create-a-drawer)
