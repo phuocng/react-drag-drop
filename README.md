@@ -9,3 +9,10 @@ On the web, drag and drop functionality can be used for a variety of purposes, s
 Implementing drag and drop functionality may require some additional coding compared to simple form inputs, but the benefits are well worth it. If you're a React developer, you'll be happy to know that this series can help you become a **master of dragging and dropping** within your React app. You'll get **real-world examples** and gradually work your way up to more advanced techniques. And the best part? We **won't be using any external libraries**, so you can see firsthand how it all works under the hood.
 
 Get ready to elevate your React app with drag and drop functionality. Your users will love it!
+
+**[01: Make a given element draggable]**
+
+Hhow to create a draggable element in React.
+
+-   [Live demo](https://phuoc.ng/collection/react-drag-drop/make-a-given-element-draggable/)
+-   [Source](/01-make-a-given-element-draggable)

@@ -1,0 +1,23 @@
+.container {
+    position: relative;
+}
+
+.draggable {
+    border: 1px solid rgb(203 213 225);
+    border-radius: 0.25rem;
+    height: 8rem;
+    width: 8rem;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    /* Center the content */
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+    /* Indicate that the element is draggable */
+    cursor: move;
+    user-select: none;
+}
