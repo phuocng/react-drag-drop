@@ -1,0 +1,40 @@
+.container {
+    border: 1px solid rgb(203 213 225);
+    height: 24rem;
+    overflow: hidden;
+
+    position: relative;
+}
+.container__content {
+    height: 100%;
+    margin-right: -1rem;
+    overflow: auto;
+    padding: 0.5rem;
+    padding-right: 1rem;
+}
+
+.scrollbar {
+    background-color: rgb(243 244 246);
+    border-left-width: 0;
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 0.75rem;
+}
+.scrollbar__thumb {
+    background-color: rgb(156 163 175);
+    border-radius: 9999px;
+    cursor: grab;
+    left: 0;
+    position: absolute;
+    width: 100%;
+}
+.scrollbar__track {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}

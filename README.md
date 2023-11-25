@@ -72,3 +72,10 @@ Explore how to implement drag-to-scroll functionality with React.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/scroll-by-dragging/)
 -   [Source](/09-scroll-by-dragging)
+
+## 10: Build a custom scrollbar
+
+Learn how to create a custom scrollbar with React.
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/build-a-custom-scrollbar/)
+-   [Source](/10-build-a-custom-scrollbar)
