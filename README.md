@@ -170,3 +170,10 @@ Explore how to create a time picker with React.
 
 -   [Tutorial](https://phuoc.ng/collection/react-drag-drop/create-a-time-picker/)
 -   [Source](/23-create-a-time-picker)
+
+## 24: Snap a draggable element to a grid
+
+Learn how to create snap-to grid functionality with React.
+
+-   [Tutorial](https://phuoc.ng/collection/react-drag-drop/snap-a-draggable-element-to-a-grid/)
+-   [Source](/24-snap-a-draggable-element-to-a-grid)
