@@ -1,0 +1,102 @@
+.annotator {
+    position: relative;
+}
+.annotator__popover {
+    background: #fff;
+    border: 1px solid rgb(203 213 225);
+    border-radius: 0.25rem;
+    padding: 0.5rem;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 999;
+}
+.annotator__popover::before {
+    background-color: inherit;
+    border-top: 1px solid rgb(203 213 225);
+    border-left: 1px solid rgb(203 213 225);
+
+    content: '';
+    position: absolute;
+    left: 0.5rem;
+    top: 0;
+    transform: translate(50%, -50%) rotate(45deg);
+
+    height: 0.5rem;
+    width: 0.5rem;
+}
+.annotator__annotation {
+    border: 2px solid rgb(203 213 225);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.annotator__cropper {
+    cursor: crosshair;
+    overflow: hidden;
+    position: relative;
+    touch-action: none;
+    width: 100%;
+}
+.annotator__image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.annotator__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+.annotator__selection {
+    outline: 1px dashed #fff;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.annotator__preview {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+.annotator__cropping {
+    outline: 1px dashed #fff;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    cursor: move;
+    user-select: none;
+    touch-action: none;
+}
+
+.resizer {
+    background: rgb(99 102 241);
+    border-radius: 50%;
+    outline: 2px solid #fff;
+    position: absolute;
+
+    height: 0.75rem;
+    width: 0.75rem;
+}
+.resizer--r {
+    cursor: col-resize;
+
+    right: 0;
+    top: 50%;
+    transform: translate(50%, -50%);
+}
+.resizer--b {
+    cursor: row-resize;
+
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 50%);
+}
